@@ -1,14 +1,23 @@
 {
-  "name": "rx-game",
+  "name": "spaceship-reactive-game",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A tiny space shooter built entirely out of RxJS streams",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx serve ."
   },
-  "author": "hubertkubiak",
-  "license": "ISC",
   "dependencies": {
     "rxjs": "^6.3.3"
+  },
+  "keywords": [
+    "rxjs",
+    "reactive",
+    "game",
+    "canvas",
+    "shooter"
+  ],
+  "homepage": "https://hubertkubiak.github.io/spaship-reactive-game/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubertkubiak/spaship-reactive-game.git"
   }
 }
