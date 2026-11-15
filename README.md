@@ -34,7 +34,7 @@ whole scene is one `combineLatest` of those streams rendered onto a `<canvas>`.
 | Action | Control |
 | ------ | ------- |
 | Move the ship | 🖱️ Mouse |
-| Shoot | 🖱️ Click |
+| Shoot | 🖱️ Click or Space |
 
 - Each enemy you shoot down gives you **+10 points**.
 - Touching an enemy or getting hit by one of its bullets ends the game.
