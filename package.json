@@ -5,9 +5,6 @@
   "scripts": {
     "start": "npx serve ."
   },
-  "dependencies": {
-    "rxjs": "^6.3.3"
-  },
   "keywords": [
     "rxjs",
     "reactive",
